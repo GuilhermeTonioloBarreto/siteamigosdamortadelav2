@@ -88,20 +88,16 @@
         ou leia de forma online conforme mostra abaixo o visualizador de PDF online</p>
 </div>
 
+<!-- Visualizar PDF -->
+<div class="container text-center">
+    <div>
+    <button id="prev">Previous</button>
+    <button id="next">Next</button>
+    <span>Page: <span id="page_num"></span> / <span id="page_count"></span></span>
+    </div>
 
-<script src="//mozilla.github.io/pdf.js/build/pdf.js"></script>
-
-<div class="container">
-    <h1>PDF.js Previous/Next example</h1>
-
-<div>
-  <button id="prev">Previous</button>
-  <button id="next">Next</button>
-  &nbsp; &nbsp;
-  <span>Page: <span id="page_num"></span> / <span id="page_count"></span></span>
-</div>
-
-<canvas id="the-canvas"></canvas>
+    
+    <canvas id="the-canvas" class="img-fluid"></canvas>
 </div>
 
 <!--Footer-->
@@ -118,7 +114,10 @@
 </div>
 
 <script src="js/functions.js"></script>
-<script src="js/index.js"></script>
+
+<!-- Visualizar PDF utilizando PDF.js -->
+<script src="//mozilla.github.io/pdf.js/build/pdf.js"></script>
+<script src="js/pdfRead.js"></script>
 
 </body>
 </html>
