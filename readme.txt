@@ -12,10 +12,15 @@
 () Colocar background de desenho de criança conforme pensado
 () Tentar fazer "contagem de visitantes do site"
 
-
-                        
-
-                        <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/amigosdamortadela/" >
-                            <img src="img/logo-instagram.png" class="mx-auto d-block img-fluid" alt="Logo Amigos da Mortadela" width="100px">
-                        </a>
+<!-- Visualização PDF -->
+<div class="container-fluid bg-light py-2">
+    <div class="container mx-auto d-block  bg-light">
+        <object data="pdf/estatuto.pdf" type="application/pdf" width="100%" height="500px class="d-block mx-auto"> 
+            <p class="bg-dark text-white p-2">Aparentemente você não tem o plugin necessário para visualizar PDF;
+                Fique tranquilo! <a href="pdf/estatuto.pdf" target="_blank" 
+                rel="noreferrer noopener">Clique aqui</a> para fazer o download do 
+                estatuto.</p>  
+            </object>
+    </div> 
+</div>
                         

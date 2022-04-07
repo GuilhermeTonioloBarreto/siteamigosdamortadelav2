@@ -7,3 +7,4 @@ link_instagram.onmouseover = function(){
 link_instagram.onmouseleave = function(){
     link_instagram.style.color="#c03cbf";
 }
+
