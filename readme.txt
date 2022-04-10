@@ -7,9 +7,9 @@
 (x) Atualizar projetos sociais - colocar curso para mães
 (x) Atualizar voluntariado
 (x) melhorar responsividade do texto
+(x) Atualizar Home
+(x) Alterar visualização da foto de capa para smartphone
 
-
-() Atualizar Home
 () Colocar Favicon
 () Ver como faz para aparecer o ícone quando se compartilha o site no whatsapp
 () Colocar Carrousel na parte de voluntários
