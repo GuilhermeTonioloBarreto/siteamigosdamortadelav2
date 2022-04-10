@@ -1,4 +1,5 @@
 let link_instagram = document.getElementById("link-instagram");
+link_instagram.style.color="#c03cbf";
 
 link_instagram.onmouseover = function(){
     link_instagram.style.color="#5949b1";

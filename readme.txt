@@ -12,9 +12,10 @@
 () Atualizar Home
 () Colocar Favicon
 () Ver como faz para aparecer o ícone quando se compartilha o site no whatsapp
+() Colocar Carrousel na parte de voluntários
 () Atualizar todas as imagens
+() Atualizar propriedade Alt e Title de todas as imagens
 () Resolver problema do menu iniciar
 () Colocar background de desenho de criança conforme pensado
 () Tentar fazer "contagem de visitantes do site"
-() Atualizar propriedade Alt e Title de todas as imagens
                         
