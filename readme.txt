@@ -12,7 +12,8 @@
 (x) Colocar Favicon
 
 () Ver como faz para aparecer o ícone quando se compartilha o site no whatsapp
-() Atualizar todas as imagens
+() Atualizar todas as imagens de cabeçalho
+() Atualizar todas as imagens de corpo
 () Atualizar propriedade Alt e Title de todas as imagens
 () Resolver problema do menu iniciar
 () Colocar background de desenho de criança conforme pensado
