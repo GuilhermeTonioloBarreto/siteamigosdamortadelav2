@@ -9,10 +9,9 @@
 (x) melhorar responsividade do texto
 (x) Atualizar Home
 (x) Alterar visualização da foto de capa para smartphone
+(x) Colocar Favicon
 
-() Colocar Favicon
 () Ver como faz para aparecer o ícone quando se compartilha o site no whatsapp
-() Colocar Carrousel na parte de voluntários
 () Atualizar todas as imagens
 () Atualizar propriedade Alt e Title de todas as imagens
 () Resolver problema do menu iniciar
