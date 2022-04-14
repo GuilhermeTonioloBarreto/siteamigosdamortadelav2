@@ -11,11 +11,13 @@
 (x) Alterar visualização da foto de capa para smartphone
 (x) Colocar Favicon
 
-() Ver como faz para aparecer o ícone quando se compartilha o site no whatsapp
 (x) Atualizar todas as imagens de cabeçalho
 () Atualizar todas as imagens de corpo
 () Atualizar propriedade Alt e Title de todas as imagens
+() Diminuir tamanho de todas as imagens
 () Resolver problema do menu iniciar
 () Colocar background de desenho de criança conforme pensado
 () Tentar fazer "contagem de visitantes do site"
+() Ver como faz para aparecer o ícone quando se compartilha o site no whatsapp
+
                         
