@@ -14,8 +14,10 @@
 (x) Atualizar todas as imagens de corpo
 (x) Resolver problema do menu iniciar
 
-() Atualizar propriedade Alt e Title de todas as imagens
 () Diminuir tamanho de todas as imagens
+() Atualizar propriedade Alt e Title de todas as imagens
+() Corrigir as sugestões que a lala falou
+() Melhorar responsividade na visão do celular
 () Colocar background de desenho de criança conforme pensado
 () Tentar fazer "contagem de visitantes do site"
 () Ver como faz para aparecer o ícone quando se compartilha o site no whatsapp
