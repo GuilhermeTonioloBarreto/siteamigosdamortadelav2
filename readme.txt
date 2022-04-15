@@ -10,9 +10,9 @@
 (x) Atualizar Home
 (x) Alterar visualização da foto de capa para smartphone
 (x) Colocar Favicon
-
 (x) Atualizar todas as imagens de cabeçalho
-() Atualizar todas as imagens de corpo
+(x) Atualizar todas as imagens de corpo
+
 () Atualizar propriedade Alt e Title de todas as imagens
 () Diminuir tamanho de todas as imagens
 () Resolver problema do menu iniciar
