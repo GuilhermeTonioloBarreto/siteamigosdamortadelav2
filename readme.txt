@@ -17,7 +17,6 @@
 (x) Atualizar propriedade Alt de todas as imagens
 (x) Colocar cor no background de algumas telas
 (x) Melhorar responsividade na visão do celular
-
-() Ver como faz para aparecer o ícone quando se compartilha o site no whatsapp
+(x) Ver como faz para aparecer o ícone quando se compartilha o site no whatsapp
 
                         
